@@ -6,5 +6,5 @@ Bu tasarımda ileri düzey Html ve Css ve Java Script kod dizilimleri kullanıla
 
 <h5>Ekran Goruntusu</h5>
 
-![](gif)
+![](gif.gif)
 
